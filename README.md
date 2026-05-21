@@ -1,5 +1,5 @@
 # IAT 461 — Assignment 1: Exploratory Data Analysis (Twitch Viewership)
-Deadline: June 3rd - 23:55
+Deadline: June 1st - 23:55
 
 ## Overview
 
